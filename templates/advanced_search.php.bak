@@ -13,7 +13,6 @@ $adv_search_type            =   get_option('wp_estate_adv_search_type','');
 $show_adv_search_visible    =   get_option('wp_estate_show_adv_search_visible','');
 $close_class_wr             =   ' ';
 
-//2017.3.1
      
 if($show_adv_search_visible=='no'){
     $close_class_wr='search_wrapper-close-extended';

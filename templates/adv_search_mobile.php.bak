@@ -12,9 +12,7 @@ $class                      =   'hidden';
 $class_close                =   '';
 $allowed_html               =   array();
 ?>
-<!--
-	2017.3.2
--->
+
 
 <div id="adv-search-header-mobile"> 
     <i class="fa fa-search"></i>  
