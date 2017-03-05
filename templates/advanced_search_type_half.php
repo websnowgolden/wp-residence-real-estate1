@@ -29,7 +29,7 @@ if ( $extended_search =='yes' ){
 }
 $adv6_taxonomy          =   get_option('wp_estate_adv6_taxonomy');
 ?>
-
+//templete 1.1
  
 
 

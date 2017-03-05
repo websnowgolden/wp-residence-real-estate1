@@ -26,7 +26,7 @@ if ( $extended_search =='yes' ){
 
 ?>
 
- 
+ //templete version 1.1
 
 
 <div class="adv-search-1 <?php echo esc_html($close_class.' '.$extended_class);?>" id="adv-search-1" > 
